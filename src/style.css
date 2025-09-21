@@ -2,4 +2,20 @@
 
 body{
     background: white;
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+#excuse{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
